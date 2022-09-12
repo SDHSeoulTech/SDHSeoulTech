@@ -1,5 +1,5 @@
 Welcome to my github.
 
-I am DongHoon Shin, Student in the SeoulTech.
+I'm DongHoon Shin. Student of the SeoulTech.
 
 Thank you for your visit.
